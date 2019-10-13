@@ -1,0 +1,14 @@
+C:\Users\ziper\Downloads\testunit 1\MainProject\bin\Debug\netcoreapp3.0\MainProject.exe
+C:\Users\ziper\Downloads\testunit 1\MainProject\bin\Debug\netcoreapp3.0\MainProject.deps.json
+C:\Users\ziper\Downloads\testunit 1\MainProject\bin\Debug\netcoreapp3.0\MainProject.runtimeconfig.json
+C:\Users\ziper\Downloads\testunit 1\MainProject\bin\Debug\netcoreapp3.0\MainProject.runtimeconfig.dev.json
+C:\Users\ziper\Downloads\testunit 1\MainProject\bin\Debug\netcoreapp3.0\MainProject.dll
+C:\Users\ziper\Downloads\testunit 1\MainProject\bin\Debug\netcoreapp3.0\MainProject.pdb
+C:\Users\ziper\Downloads\testunit 1\MainProject\bin\Debug\netcoreapp3.0\AreaLib.dll
+C:\Users\ziper\Downloads\testunit 1\MainProject\bin\Debug\netcoreapp3.0\AreaLib.pdb
+C:\Users\ziper\Downloads\testunit 1\MainProject\obj\Debug\netcoreapp3.0\MainProject.csprojAssemblyReference.cache
+C:\Users\ziper\Downloads\testunit 1\MainProject\obj\Debug\netcoreapp3.0\MainProject.AssemblyInfoInputs.cache
+C:\Users\ziper\Downloads\testunit 1\MainProject\obj\Debug\netcoreapp3.0\MainProject.AssemblyInfo.cs
+C:\Users\ziper\Downloads\testunit 1\MainProject\obj\Debug\netcoreapp3.0\MainProject.csproj.CopyComplete
+C:\Users\ziper\Downloads\testunit 1\MainProject\obj\Debug\netcoreapp3.0\MainProject.dll
+C:\Users\ziper\Downloads\testunit 1\MainProject\obj\Debug\netcoreapp3.0\MainProject.pdb

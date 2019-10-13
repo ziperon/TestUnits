@@ -1,0 +1,8 @@
+C:\Users\ziper\Downloads\testunit 1\AreaLib\bin\Debug\netstandard2.0\AreaLib.deps.json
+C:\Users\ziper\Downloads\testunit 1\AreaLib\bin\Debug\netstandard2.0\AreaLib.dll
+C:\Users\ziper\Downloads\testunit 1\AreaLib\bin\Debug\netstandard2.0\AreaLib.pdb
+C:\Users\ziper\Downloads\testunit 1\AreaLib\obj\Debug\netstandard2.0\AreaLib.csprojAssemblyReference.cache
+C:\Users\ziper\Downloads\testunit 1\AreaLib\obj\Debug\netstandard2.0\AreaLib.AssemblyInfoInputs.cache
+C:\Users\ziper\Downloads\testunit 1\AreaLib\obj\Debug\netstandard2.0\AreaLib.AssemblyInfo.cs
+C:\Users\ziper\Downloads\testunit 1\AreaLib\obj\Debug\netstandard2.0\AreaLib.dll
+C:\Users\ziper\Downloads\testunit 1\AreaLib\obj\Debug\netstandard2.0\AreaLib.pdb
